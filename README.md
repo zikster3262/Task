@@ -29,10 +29,15 @@
   
   ## Methods
   getPassangers() - return number of people on the bus without the BusDriver
-  getLastPerson() - return the LastPerson on the bus
+  
+  getLastPerson() - return the LastPerson on the bus 
+  
   getFirstPerson() - return the FirstPerson on the bus
+  
   getSumMoney() - return the sum of all the money all persons have in the bus
+  
   getVitality() - return the sum of all Vitality on the bus
+  
   arrive() - all passangers left the bus, there should be no Person on the bus
   
   
